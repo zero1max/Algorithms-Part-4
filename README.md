@@ -6,4 +6,8 @@
 
 <h2>Task 1</h2>
 
-<img src="img2/img2.png" alt="img2.png">
+<img src="img/img2.png" alt="img2.png">
+
+<h2>Task 2</h2>
+
+<img src="img/img3.png" alt="img3.png">
